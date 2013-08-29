@@ -119,7 +119,7 @@
 		B6F1818317CCB91E00EE6514 /* NSMutableURLRequest+Parameters.m in Resources */ = {isa = PBXBuildFile; fileRef = B6F1817F17CCB91E00EE6514 /* NSMutableURLRequest+Parameters.m */; };
 		B6F1818417CCB91E00EE6514 /* NSString+URLEncoding.m in Resources */ = {isa = PBXBuildFile; fileRef = B6F1818017CCB91E00EE6514 /* NSString+URLEncoding.m */; };
 		B6F1818517CCB91E00EE6514 /* NSURL+Base.m in Resources */ = {isa = PBXBuildFile; fileRef = B6F1818117CCB91E00EE6514 /* NSURL+Base.m */; };
-		B6F1818617CCB91E00EE6514 /* OAConsumer.h in Resources */ = {isa = PBXBuildFile; fileRef = B6F1818217CCB91E00EE6514 /* OAConsumer.h */; };
+		B6F1818617CCB91E00EE6514 /* OAuthConsumer.h in Resources */ = {isa = PBXBuildFile; fileRef = B6F1818217CCB91E00EE6514 /* OAuthConsumer.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -220,7 +220,7 @@
 		B6F1817F17CCB91E00EE6514 /* NSMutableURLRequest+Parameters.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSMutableURLRequest+Parameters.m"; sourceTree = "<group>"; };
 		B6F1818017CCB91E00EE6514 /* NSString+URLEncoding.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSString+URLEncoding.m"; sourceTree = "<group>"; };
 		B6F1818117CCB91E00EE6514 /* NSURL+Base.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSURL+Base.m"; sourceTree = "<group>"; };
-		B6F1818217CCB91E00EE6514 /* OAConsumer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = OAConsumer.h; path = "../../../../../../../Downloads/Twitter-OAuth-iPhone-master/OAuthConsumeriPhoneLib/OAuthConsumerSrc/OAConsumer.h"; sourceTree = "<group>"; };
+		B6F1818217CCB91E00EE6514 /* OAuthConsumer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OAuthConsumer.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -373,7 +373,7 @@
 				B6F1818017CCB91E00EE6514 /* NSString+URLEncoding.m */,
 				B60E66EB17CA02FC001FD7B2 /* NSURL+Base.h */,
 				B6F1818117CCB91E00EE6514 /* NSURL+Base.m */,
-				B6F1818217CCB91E00EE6514 /* OAConsumer.h */,
+				B6F1818217CCB91E00EE6514 /* OAuthConsumer.h */,
 				B60E66EC17CA02FC001FD7B2 /* OAAsynchronousDataFetcher.h */,
 				B6908BEA17CBA1AB00EEEDD5 /* OAConsumer.m */,
 				B60E66EE17CA02FC001FD7B2 /* OADataFetcher.h */,
@@ -550,7 +550,7 @@
 				B6F1818317CCB91E00EE6514 /* NSMutableURLRequest+Parameters.m in Resources */,
 				B6F1818417CCB91E00EE6514 /* NSString+URLEncoding.m in Resources */,
 				B6F1818517CCB91E00EE6514 /* NSURL+Base.m in Resources */,
-				B6F1818617CCB91E00EE6514 /* OAConsumer.h in Resources */,
+				B6F1818617CCB91E00EE6514 /* OAuthConsumer.h in Resources */,
 				B6908BFC17CBA20500EEEDD5 /* OAConsumer.m in Resources */,
 				B6908BFD17CBA20500EEEDD5 /* OADataFetcher.m in Resources */,
 				B6908BFE17CBA20500EEEDD5 /* OAHMAC_SHA1SignatureProvider.m in Resources */,
