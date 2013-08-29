@@ -101,7 +101,6 @@
 		B6ED8EF017CE5797003E09C2 /* MGTwitterEngine.m in Sources */ = {isa = PBXBuildFile; fileRef = B60E66FA17CA02FC001FD7B2 /* MGTwitterEngine.m */; };
 		B6ED8EF117CE57BC003E09C2 /* MGTwitterHTTPURLConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = B60E66FE17CA02FC001FD7B2 /* MGTwitterHTTPURLConnection.m */; };
 		B6ED8EF417CE5839003E09C2 /* MGTwitterUsersParser.m in Sources */ = {isa = PBXBuildFile; fileRef = B60E671217CA02FC001FD7B2 /* MGTwitterUsersParser.m */; };
-		B6ED8EF517CE58C6003E09C2 /* NSMutableURLRequest+Parameters.m in Sources */ = {isa = PBXBuildFile; fileRef = B6F1817F17CCB91E00EE6514 /* NSMutableURLRequest+Parameters.m */; };
 		B6ED8EF617CE58C6003E09C2 /* NSString+URLEncoding.m in Sources */ = {isa = PBXBuildFile; fileRef = B6F1818017CCB91E00EE6514 /* NSString+URLEncoding.m */; };
 		B6ED8EF717CE58C6003E09C2 /* NSURL+Base.m in Sources */ = {isa = PBXBuildFile; fileRef = B6F1818117CCB91E00EE6514 /* NSURL+Base.m */; };
 		B6ED8EF817CE58E8003E09C2 /* MGTwitterLibXMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = B60E670017CA02FC001FD7B2 /* MGTwitterLibXMLParser.m */; };
@@ -218,9 +217,9 @@
 		B6ED8EE417CE52EB003E09C2 /* hmac.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = hmac.h; path = Crypto/hmac.h; sourceTree = "<group>"; };
 		B6ED8EE517CE52EB003E09C2 /* sha1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = sha1.c; path = Crypto/sha1.c; sourceTree = "<group>"; };
 		B6ED8EE617CE52EB003E09C2 /* sha1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = sha1.h; path = Crypto/sha1.h; sourceTree = "<group>"; };
-		B6F1817F17CCB91E00EE6514 /* NSMutableURLRequest+Parameters.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "NSMutableURLRequest+Parameters.m"; path = "../../../../../../../Downloads/Twitter-OAuth-iPhone-master/OAuthConsumeriPhoneLib/OAuthConsumerSrc/NSMutableURLRequest+Parameters.m"; sourceTree = "<group>"; };
-		B6F1818017CCB91E00EE6514 /* NSString+URLEncoding.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "NSString+URLEncoding.m"; path = "../../../../../../../Downloads/Twitter-OAuth-iPhone-master/OAuthConsumeriPhoneLib/OAuthConsumerSrc/NSString+URLEncoding.m"; sourceTree = "<group>"; };
-		B6F1818117CCB91E00EE6514 /* NSURL+Base.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "NSURL+Base.m"; path = "../../../../../../../Downloads/Twitter-OAuth-iPhone-master/OAuthConsumeriPhoneLib/OAuthConsumerSrc/NSURL+Base.m"; sourceTree = "<group>"; };
+		B6F1817F17CCB91E00EE6514 /* NSMutableURLRequest+Parameters.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSMutableURLRequest+Parameters.m"; sourceTree = "<group>"; };
+		B6F1818017CCB91E00EE6514 /* NSString+URLEncoding.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSString+URLEncoding.m"; sourceTree = "<group>"; };
+		B6F1818117CCB91E00EE6514 /* NSURL+Base.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSURL+Base.m"; sourceTree = "<group>"; };
 		B6F1818217CCB91E00EE6514 /* OAConsumer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = OAConsumer.h; path = "../../../../../../../Downloads/Twitter-OAuth-iPhone-master/OAuthConsumeriPhoneLib/OAuthConsumerSrc/OAConsumer.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -638,7 +637,6 @@
 				B6ED8F0017CE58E8003E09C2 /* MGTwitterXMLParser.m in Sources */,
 				B6ED8F0117CE58E8003E09C2 /* NSData+Base64.m in Sources */,
 				B6ED8F0217CE58E8003E09C2 /* NSString+UUID.m in Sources */,
-				B6ED8EF517CE58C6003E09C2 /* NSMutableURLRequest+Parameters.m in Sources */,
 				B6ED8EF617CE58C6003E09C2 /* NSString+URLEncoding.m in Sources */,
 				B6ED8EF717CE58C6003E09C2 /* NSURL+Base.m in Sources */,
 				B6ED8EF417CE5839003E09C2 /* MGTwitterUsersParser.m in Sources */,
