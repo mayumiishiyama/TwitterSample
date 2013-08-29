@@ -6,7 +6,7 @@
 //  Copyright (c) 2013年 Kohei Tabata. All rights reserved.
 //
 
-/*
+
 #import <UIKit/UIKit.h>
 
 @class TSViewController;
@@ -21,8 +21,8 @@
 //@property (strong, nonatomic) TSViewController *viewController;
 
 @end
-*/
 
+/*
 #import <UIKit/UIKit.h>
 
 @class TSViewController;
@@ -36,3 +36,4 @@
 @property (nonatomic, retain) IBOutlet TSViewController *viewController;
 
 @end
+*/

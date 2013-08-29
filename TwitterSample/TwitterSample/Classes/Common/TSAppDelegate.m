@@ -10,12 +10,12 @@
 
 #import "TSViewController.h"
 #import "TSProfileViewController.h"
-#import "TSTImeLineViewController.h"
+#import "TSTimeLineViewController.h"
 
 
 @implementation TSAppDelegate
 
-
+/*
 @synthesize window;
 @synthesize viewController;
 
@@ -36,14 +36,14 @@
 
 
 @end
+*/
 
 
 
-/*　ここ
 @synthesize window = _window;
 @synthesize tabBarController = _tabBarController;
 @synthesize navigationController = _navigationController;
-*/
+
 
 /*
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
@@ -57,7 +57,7 @@
 }
 */
 
-/* ここ
+
 -(BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame: [[UIScreen mainScreen] bounds]];
@@ -74,8 +74,8 @@
 
      
 }
-*/ 
-/*
+
+
 - (void)applicationWillResignActive:(UIApplication *)application
 {
     // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
@@ -104,4 +104,4 @@
 }
 
 @end
- */
+ 

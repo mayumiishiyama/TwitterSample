@@ -10,7 +10,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface TSTImeLineViewController : UIViewController
+@interface TSTimeLineViewController : UIViewController
     -(void)getTimeLine;
 @end
 

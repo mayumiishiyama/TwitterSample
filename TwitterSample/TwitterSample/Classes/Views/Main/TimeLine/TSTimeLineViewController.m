@@ -10,14 +10,11 @@
 #import "TSViewController.h"
 
 
-@interface TSTImeLineViewController ()
+@interface TSTimeLineViewController ()
 
 @end
 
-@implementation TSTImeLineViewController
-{
-    //TSViewController *nextViewController;
-}
+@implementation TSTimeLineViewController
 
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil

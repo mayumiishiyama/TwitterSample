@@ -7,9 +7,6 @@
 //
 
 #import "TSMainViewController.h"
-#import "Profile/TSProfileViewController.h"
-#import "TimeLine/TSTImeLineViewController.h"
-
 
 @interface TSMainViewController ()
 
