@@ -22,6 +22,7 @@
 		B60E66B617C90EC2001FD7B2 /* libxml2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B60E66B517C90EC2001FD7B2 /* libxml2.dylib */; };
 		B60E66B717C90F21001FD7B2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 734D62EA17C2507400727888 /* Foundation.framework */; };
 		B60E66B817C90F34001FD7B2 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 734D62EC17C2507400727888 /* CoreGraphics.framework */; };
+		B61F963917CF5D5200A6C1F0 /* OAConsumer.h in Resources */ = {isa = PBXBuildFile; fileRef = B61F963817CF5D5200A6C1F0 /* OAConsumer.h */; };
 		B620CB8F17C4CB0100DAAA6D /* TSTimeLineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B620CB8D17C4CB0100DAAA6D /* TSTimeLineViewController.m */; };
 		B620CB9017C4CB0100DAAA6D /* TSTimeLineViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B620CB8E17C4CB0100DAAA6D /* TSTimeLineViewController.xib */; };
 		B6908BB317CB9EDE00EEEDD5 /* SA_OAuthTwitterController.h in Resources */ = {isa = PBXBuildFile; fileRef = B60E671A17CA02FC001FD7B2 /* SA_OAuthTwitterController.h */; };
@@ -197,6 +198,7 @@
 		B60E671C17CA02FC001FD7B2 /* SA_OAuthTwitterEngine.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SA_OAuthTwitterEngine.h; sourceTree = "<group>"; };
 		B60E671D17CA02FC001FD7B2 /* SA_OAuthTwitterEngine.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SA_OAuthTwitterEngine.m; sourceTree = "<group>"; };
 		B60E671E17CA02FC001FD7B2 /* twitter_load.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = twitter_load.png; sourceTree = "<group>"; };
+		B61F963817CF5D5200A6C1F0 /* OAConsumer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OAConsumer.h; sourceTree = "<group>"; };
 		B620CB8C17C4CB0100DAAA6D /* TSTimeLineViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TSTimeLineViewController.h; sourceTree = "<group>"; };
 		B620CB8D17C4CB0100DAAA6D /* TSTimeLineViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TSTimeLineViewController.m; sourceTree = "<group>"; };
 		B620CB8E17C4CB0100DAAA6D /* TSTimeLineViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TSTimeLineViewController.xib; sourceTree = "<group>"; };
@@ -375,6 +377,7 @@
 				B6F1818117CCB91E00EE6514 /* NSURL+Base.m */,
 				B6F1818217CCB91E00EE6514 /* OAuthConsumer.h */,
 				B60E66EC17CA02FC001FD7B2 /* OAAsynchronousDataFetcher.h */,
+				B61F963817CF5D5200A6C1F0 /* OAConsumer.h */,
 				B6908BEA17CBA1AB00EEEDD5 /* OAConsumer.m */,
 				B60E66EE17CA02FC001FD7B2 /* OADataFetcher.h */,
 				B6908BEB17CBA1AB00EEEDD5 /* OADataFetcher.m */,
@@ -541,6 +544,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B61F963917CF5D5200A6C1F0 /* OAConsumer.h in Resources */,
 				B6ED8EE717CE52EB003E09C2 /* Base64Transcoder.c in Resources */,
 				B6ED8EE817CE52EB003E09C2 /* Base64Transcoder.h in Resources */,
 				B6ED8EE917CE52EB003E09C2 /* hmac.c in Resources */,
